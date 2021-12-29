@@ -1,3 +1,3 @@
-# proprietary_vendor_samsung
+# Proprietary vendor Samsung gt5note10lte
 
-Vendor blobs for samsung msm8916 devices
+Vendor blobs for Samsung gt5note10lte.
